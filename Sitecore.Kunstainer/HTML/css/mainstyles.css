@@ -1,2 +1,23 @@
 ﻿body {
 }
+
+#Container { width: 960px ; margin-left: auto ; margin-right: auto ; }
+
+/*TopArea*/
+#TopArea { margin: 8px 0; }
+#TopLogo { width: 140px; height: 60px; margin-right: 10px; float: left; }
+#TopMenu { width: 560px; height: 60px; margin-right: 10px; float: left; background-color: #EBEBEB; }
+#SearchBox { width: 214px; height: 54px; float: left; border: 3px solid #898989; }
+#SearchText { width: 150px; height: 52px; border: 0; }
+#SearchButton { width: 58px; height: 54px; border: 0; background-color: #898989; }
+
+/*ColorSchemes*/
+.yellow { background-color: #ffc80a; }
+.blue { background-color: #0adfff; }
+.pink { background-color: #ff0a89; }
+.green { background-color: #33ff0a; }
+
+.yellowtext { color: #ffc80a; }
+.bluetext { color: #0adfff; }
+.pinktext { color: #ff0a89; }
+.greentext { color: #33ff0a; }
